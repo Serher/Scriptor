@@ -1,0 +1,14 @@
+﻿[CB1]
+Coordinates=10,10,84,105
+
+[RE1]
+Coordinates=170,144,40,33
+Visible=True
+
+[Button1]
+Coordinates=244,10,53,51
+
+[]
+Coordinates=180,10,47,51
+Visible=True
+
