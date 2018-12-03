@@ -2,7 +2,7 @@ object Form1: TForm1
   Left = 0
   Top = 0
   Caption = 'Form1'
-  ClientHeight = 649
+  ClientHeight = 652
   ClientWidth = 1076
   Color = clBtnFace
   Font.Charset = RUSSIAN_CHARSET
@@ -15,9 +15,24 @@ object Form1: TForm1
   Position = poDesigned
   DesignSize = (
     1076
-    649)
+    652)
   PixelsPerInch = 96
   TextHeight = 21
+  object Label2: TLabel
+    Left = 8
+    Top = 636
+    Width = 82
+    Height = 15
+    Anchors = [akLeft, akBottom]
+    Caption = '(c)Osipov, 2018'
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Times New Roman'
+    Font.Style = []
+    ParentFont = False
+    ExplicitTop = 634
+  end
   object CB1: TComboBox
     Left = 8
     Top = 8
@@ -31,7 +46,7 @@ object Form1: TForm1
     Left = 8
     Top = 43
     Width = 409
-    Height = 459
+    Height = 538
     Anchors = [akLeft, akTop, akBottom]
     BevelOuter = bvNone
     BevelKind = bkFlat
@@ -40,15 +55,12 @@ object Form1: TForm1
     Font.Height = -19
     Font.Name = 'Times New Roman'
     Font.Style = []
-    Lines.Strings = (
-      'RE1')
     ParentFont = False
     ReadOnly = True
-    ScrollBars = ssBoth
+    ScrollBars = ssVertical
     TabOrder = 1
     Zoom = 100
     OnChange = RE1Change
-    ExplicitHeight = 480
   end
   object Button1: TButton
     Left = 448
@@ -64,20 +76,17 @@ object Form1: TForm1
   end
   object RE3: TRichEdit
     Left = 161
-    Top = 508
+    Top = 590
     Width = 256
-    Height = 97
+    Height = 61
     Anchors = [akLeft, akBottom]
-    Lines.Strings = (
-      'RE3')
     ScrollBars = ssBoth
     TabOrder = 3
     Zoom = 100
-    ExplicitTop = 529
   end
   object BitBtn1: TBitBtn
     Left = 8
-    Top = 505
+    Top = 587
     Width = 137
     Height = 35
     Anchors = [akLeft, akBottom]
@@ -86,7 +95,6 @@ object Form1: TForm1
     NumGlyphs = 2
     TabOrder = 4
     OnClick = BitBtn1Click
-    ExplicitTop = 526
   end
   object Button2: TButton
     Left = 448
@@ -201,8 +209,8 @@ object Form1: TForm1
     OnClick = Bt2Click
   end
   object TV1: TTreeView
-    Left = 576
-    Top = 395
+    Left = 0
+    Top = 238
     Width = 217
     Height = 145
     Indent = 19
@@ -210,8 +218,8 @@ object Form1: TForm1
     Visible = False
   end
   object P2: TPanel
-    Left = 592
-    Top = 140
+    Left = 49
+    Top = 220
     Width = 377
     Height = 145
     TabOrder = 13
@@ -337,8 +345,8 @@ object Form1: TForm1
     end
   end
   object MainMenu1: TMainMenu
-    Left = 712
-    Top = 1
+    Left = 48
+    Top = 33
     object N1: TMenuItem
       Caption = #1060#1072#1081#1083
       object N6: TMenuItem
@@ -374,8 +382,8 @@ object Form1: TForm1
     end
   end
   object PM1: TPopupMenu
-    Left = 768
-    Top = 8
+    Left = 16
+    Top = 32
     object N11: TMenuItem
       Caption = #1044#1074#1080#1085#1091#1090#1100' '#1074#1074#1077#1088#1093
       OnClick = N11Click

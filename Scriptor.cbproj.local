@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.216,D:\C++\Scriptor\MyUtils.cpp=</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.787,=D:\C++\Scriptor\Unit2.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.458,D:\C++\Scriptor\Unit1.dfm=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.870,=D:\C++\Scriptor\MyUtils.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.178,D:\C++\Scriptor\MyUtils.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,=D:\C++\Scriptor\MyUtils.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.787,=D:\C++\Scriptor\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.060,C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\C++\Scriptor\Scriptor.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.216,D:\C++\Scriptor\MyUtils.cpp=</Transaction>
     <Transaction>1899.12.30 00:00:00.000.043,=D:\C++\Scriptor\MyUtils.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.458,D:\C++\Scriptor\Unit1.cpp=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.458,D:\C++\Scriptor\Unit1.h=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.109,D:\C++\Scriptor\Project1PCH1.h=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.046,D:\C++\Scriptor\ScriptorPCH1.h=D:\C++\Scriptor\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.060,D:\C++\Scriptor\Scriptor.cbproj=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.013,=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.027,=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.458,C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\C++\Scriptor\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.046,D:\C++\Scriptor\Project1PCH1.h=D:\C++\Scriptor\ScriptorPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.458,C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\C++\Scriptor\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.458,C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\C++\Scriptor\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,=C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,C:\Users\Serher\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\C++\Scriptor\Project1PCH1.h</Transaction>
   </Transactions>
 </BorlandProject>

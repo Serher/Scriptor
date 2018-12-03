@@ -62,6 +62,7 @@ __published:	// IDE-managed Components
 	TLabel *Label1;
 	TBitBtn *BitBtn4;
 	TBitBtn *BitBtn5;
+	TLabel *Label2;
 	void __fastcall Button1Click(TObject *Sender);
 	void __fastcall CB1Change(TObject *Sender);
 	void __fastcall BitBtn1Click(TObject *Sender);
